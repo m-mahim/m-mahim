@@ -1,11 +1,11 @@
 <!-- ========================= -->
 <!-- HEADER / INTRODUCTION -->
 <!-- ========================= -->
-## Hi there 👋 I'm A. Q. Mohiuddin Mahim 
-💻 Computer Science & Engineering Student | AI & OS Enthusiast  
-🌍 Based in Bangladesh | Exploring opportunities globally  
+## Assalamualaikum 👋 I'm A. Q. Mohiuddin Mahim  
 
-<!-- Tip: Keep this short and professional. -->
+💻 Computer Science & Engineering Student  
+🧠 AI, Operating Systems & Software Engineering Enthusiast  
+🌍 Based in Bangladesh | Open to global learning & collaboration  
 
 ---
 
@@ -13,36 +13,45 @@
 <!-- ABOUT ME -->
 <!-- ========================= -->
 ## About Me
-- 🔭 Currently preparing for Death  
-- 🌱 Exploring entrepreneurship in consumer goods & apparel  
-- 📚 Passionate about bilingual teaching & technical learning  
-- ⚡ Fun fact: I debug faster with coffee ☕  
 
-<!-- Tip: Use bullet points for clarity. -->
+I am a motivated **Computer Science & Engineering undergraduate** with a strong interest in **software development, artificial intelligence, and system-level computing**. I enjoy transforming theoretical knowledge into practical implementations through academic and self-driven projects.
+
+- 🎓 Studying CSE at **Daffodil International University (DIU)**
+- 🔭 Currently strengthening foundations in **problem solving, OOP, and system design**
+- 🌱 Exploring **entrepreneurship**, long-term business development, and IT innovation
+- 📚 Passionate about **bilingual (Bangla–English) teaching, mentoring, and technical learning**
+- ⚡ Known for being detail-oriented and persistent in debugging and optimization
 
 ---
 
 <!-- ========================= -->
 <!-- TECH STACK / SKILLS -->
 <!-- ========================= -->
-## Tech Stack
-<!-- Languages & Frameworks -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+## Tech Stack & Skills
 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-<!-- Computer Science Subjects -->
-📘 PPS | DS | Algorithms | SDA | SWE  
-📘 DBMS | Compiler Design | GitHub  
-
-<!-- Tip: Add/remove badges based on your skills. Shields.io has more logos. -->
+### Core Computer Science Knowledge
+📘 Programming & Problem Solving  
+📘 Data Structures & Algorithms  
+📘 Object-Oriented Programming (OOP)  
+📘 Software Engineering (SWE)  
+📘 Database Management Systems (DBMS)  
+📘 Compiler Design (Basic)  
+📘 Computer Networks (OSI & TCP/IP)  
 
 ---
 
@@ -50,22 +59,40 @@
 <!-- FEATURED PROJECTS -->
 <!-- ========================= -->
 ## Featured Projects
-- 📌 [Advanced Scientific Calculator](https://github.com/m-mahim/Advanced-Scientific-Calculator)  
-- 📌 [Employee Management System](https://github.com/m-mahim/Employee_Management_System)  
-- 📌 [Solved Problem List](https://github.com/m-mahim/Practice_Problems)  
 
-<!-- Tip: Pin your best repositories from GitHub profile settings. -->
+- 📌 **Advanced Scientific Calculator**  
+  Java-based calculator with extended mathematical operations  
+  🔗 https://github.com/m-mahim/Advanced-Scientific-Calculator  
+
+- 📌 **Employee Management System**  
+  Java Swing & JDBC project focusing on CRUD operations and OOP principles  
+  🔗 https://github.com/m-mahim/Employee_Management_System  
+
+- 📌 **Problem Solving Practice Repository**  
+  Collection of beginner-to-intermediate problem-solving exercises  
+  🔗 https://github.com/m-mahim/Practice_Problems  
 
 ---
 
 <!-- ========================= -->
 <!-- GITHUB STATS -->
 <!-- ========================= -->
-## GitHub Stats
-![Mohiuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mahim&show_icons=true&theme=radical)  
+## GitHub Statistics
+
+![Mohiuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mahim&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mahim&layout=compact&theme=radical)
 
-<!-- Tip: Replace "yourusername" with your GitHub username. -->
+---
+
+<!-- ========================= -->
+<!-- CURRENT GOALS -->
+<!-- ========================= -->
+## Current Goals
+
+- 📈 Improve algorithmic thinking and coding efficiency
+- 🧪 Build research-oriented projects in AI & NLP
+- 💼 Prepare for freelancing and professional software roles
+- 🚀 Lay the groundwork for launching an IT-focused business in the future
 
 ---
 
@@ -73,17 +100,14 @@
 <!-- CONTACT / LINKS -->
 <!-- ========================= -->
 ## Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohiuddinofficial/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://verdant-lebkuchen-9aa8be.netlify.app/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohiuddinmahim@gmail.com)
-
-<!-- Tip: Replace links with your actual LinkedIn, portfolio, and email. -->
 
 ---
 
 <!-- ========================= -->
 <!-- FOOTER -->
 <!-- ========================= -->
-⭐️ From [Mohiuddin](https://github.com/m-mahim)  
-
-<!-- Tip: This footer adds a nice signature. -->
+⭐️ From [A. Q. Mohiuddin Mahim](https://github.com/m-mahim)
